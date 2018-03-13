@@ -1,2 +1,2 @@
 # test-project
-just for test
+just for test v1.0
